@@ -42,3 +42,10 @@ http://localhost:4200/admin
 
 admin@codecloud.com
 123456789
+
+
+in git you will find db dump
+
+please crete a db with name "codeCloudAssignment"
+
+then dump the data into it
