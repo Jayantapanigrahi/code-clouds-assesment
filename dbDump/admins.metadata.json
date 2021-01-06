@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"codeCloudAssignment.admins"},{"v":2,"unique":true,"key":{"email_id":1},"name":"email_id_1","ns":"codeCloudAssignment.admins","background":true}],"uuid":"a6cf624142ec4360904910973b605a1d"}
